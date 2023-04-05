@@ -11,8 +11,8 @@
 	<groupId>hr.fer.skalabilnost</groupId>
 	<artifactId>labos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Project initialization</name>
-	<description>First practice</description>
+	<name>Asterix</name>
+	<description>Pending...</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
