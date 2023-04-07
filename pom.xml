@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>hr.fer.skalabilnost</groupId>
 	<artifactId>labos</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Asterix</name>
 	<description>Pending...</description>
 	<properties>
